@@ -1,7 +1,7 @@
 *Jiahui Zhou, University of Michigan, School of Information, UX Design & Research*
 
 # Lab2-JaveScript Overview
-For this homework, we worked on the html and javascript basics, to generate a interactive webpage to display data. We were given the xxx file, and the skeleton of xxxx.
+For this homework, we worked on the html and javascript basics to generate an interactive webpage using a set of movie data. 
 
 In this project, I:
 * Create headings and paragraphs through selecting and editing DOM elements and filling with the processed data;
@@ -16,14 +16,14 @@ What I learned from this homework:
 * Link data with Call-to-Actions to enable user-controlled webpage interaction;
 
 My visualization works from this homework:
-
+#### Lab2 Webpage Screenshot
+![lab2](lab2.png?raw=true "Lab2 Webpage Screenshot")
 
 # Introduction to the Files
-There are a total of 5 python files you need to run this program and do the things mentioned above. These files are:
-*  `lab1.twb`
-*  `lab1_individual.twbx`
-*  `The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women.pdf`
+There are a total of 2 files I worked on for this homework. These files are:
+*  `lab2_js_data.js`
+*  `lab2_js_jhzhou.html`
 
-Of those 3 files, `lab1_individual.twbx` is the main file you should open through Tableau. 
+Of those 2 files, `lab2_js_jhzhou.html` is the main file I worked on to do the things mentioned above. You can open and view it in your own computer.
 
 ### Thanks for your watching! 💗
