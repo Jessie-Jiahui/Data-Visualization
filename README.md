@@ -1,42 +1,37 @@
 *Jiahui Zhou, University of Michigan, School of Information, UX Design & Research*
-*These are a group of works for my SI649: Data-Visualization*
 
-# Lab1-Tableau Overview
-It is a program to use data to validate an opinion "The Makeup Industry Is Now More Skin Shade–Inclusive Than Ever." I chose 
-the data of historical shades set evolution of Estee Lauder Double Wear Foundation, for both its largest color variations in current mainstream foundations and its constant name convention (otherwise, I am not able to scrape its previous color set on the webpage). 
+# Project Overview
+The repository includes a group of homeworks for my SI649: Data-Visualization course this winter semester.
+
+## Lab1-Tableau Overview
+This homework asked us to use Tableau to generate a series of visualizations for the article “The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women” https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/ 
 
 In this project, I:
-* Download the individual dataset from Canvas
-* Replicate the three visualizations in the original article using Tableau (work to get these as close in look and feel as you can… fonts, colors, etc.)
-* Add two new visualizations that enhance the article. We’ve expanded the original 538 dataset to offer additional variables to help you here. There should be a good reason you are adding each visualization to the article. You may need to create more than two to find interesting/useful visualizations. Hint for a successful choice: if you can find a place in the text to add “see figure” it’s probably a good start.
+* Used given dataset to replicate the three visualizations in the original article using Tableau
+* Add two new visualizations that enhance the article. 
 
-Here I learned:
-*  Tableau
+What I learned from this homework:
+* Data clean and manipulation: import, sort, make calculated fields, create groups, etc.
+* Organize sheet: differentiate measure and dimensions, create simple visualization and change chart type, adjust encodings, adjust aggregation methods (e.g. sum, average, count), sort axis, etc.
+* Build dashboard and stories
+* Action: create annotations on the chart, create data filters, link sheets together with actions, add analytics enhancements (e.g., constant line, regression), edit legend and filter by legend, etc.
 
-Data
-Know how to import data
-View and describe data within Tableau
-Sort Data
-Select data types (Date, Number, String)
-Make Calculated Fields
-Change the # of rows displayed
-Create Groups
-Sheet
-Differentiate measure and dimensions
-Create simple visualization and change chart type
-Adjust encodings
-Adjust color
-Adjust aggregation methods (e.g. sum, average, count)
-Sort axis
-Organize Sheets	
-Build dashboard
-Build stories
-Action
-Create annotations on the chart
-Create data filters
-Link sheets together with actions.
-Add analytics enhancements (e.g., constant line, regression)
-Edit legend and filter by legend.
+Below are some sample visualizations you will get:
+
+# Introduction to the Files
+There are a total of 5 python files you need to run this program and do the things mentioned above. These files are:
+*  `alternate_advanced_caching.py`
+*  `main.py`
+*  `final_proj.py.py`
+*  `final_plot.py`
+*  `esteelauder_doublewear_data.py`
+
+Of those 5 files, `main.py` is the main file you should run to perform all the functions. All the other four files are all supporting files. The detail about how to interact with the program will be talked in the *Instructions* section.
+
+There are also 2 JSON files that will be generated during you run the main file. These files are just used for caching purpose and will not affect running the main file in any way.
+
+### Thanks for your watching! 💗
+
 
 # Lab2-JaveScript Overview
 In this section, we will work on the html and javascript basics. Mainly, you need to understand HTML’s DOM (Document Object Model) structure, be able to select and edit DOM elements.
