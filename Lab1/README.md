@@ -13,15 +13,15 @@ What I learned from this homework:
 * Build dashboard and stories
 * Action: create annotations on the chart, create data filters, link sheets together with actions, add analytics enhancements (e.g., constant line, regression), edit legend and filter by legend, etc.
 
+My visualization works from this homework:
+Please check out the only pdf file inside this folder. Other than the first image, I generated all the five visualizations.
+
 # Introduction to the Files
-There are a total of 5 python files you need to run this program and do the things mentioned above. These files are:
+There are a total of 3 files I worked on for this homework. These files are:
 *  `lab1.twb`
 *  `lab1_individual.twbx`
 *  `The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women.pdf`
 
 Of those 3 files, `lab1_individual.twbx` is the main file you should open through Tableau. 
-
-My visualization works from this homework:
-Other than the first image, I generated all the five visualizations within the pdf file.
 
 ### Thanks for your watching! 💗
