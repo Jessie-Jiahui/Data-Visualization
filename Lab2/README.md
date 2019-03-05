@@ -26,4 +26,5 @@ There are a total of 2 files I worked on for this homework. These files are:
 
 Of those 2 files, `lab2_js_jhzhou.html` is the main file I worked on to do the things mentioned above. You can open and view it in your own computer.
 
+
 ### Thanks for your watching! 💗
