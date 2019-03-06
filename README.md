@@ -4,7 +4,7 @@
 The repository includes a group of homeworks for my SI649: Data-Visualization course this winter semester.
 
 # Repository Strcuture
-## Lab1-Tableau[lab1](README.md)
+## [Lab1-Tableau](lab1)
 ## Lab2-JaveScript
 ## Lab3-Vega-Lite
 ## Lab4-d3
