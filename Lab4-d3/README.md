@@ -1,28 +1,33 @@
 *Jiahui Zhou, University of Michigan, School of Information, UX Design & Research*
 
 # Lab4-d3 Overview
-This homework taught us how to do visualization for movie dataset using Vega-Lite, which is a high-level grammar of interactive graphics. It provides a concise JSON syntax for rapidly generating visualizations to support analysis. 
+In this homework, we used the Metafilter dataset, which consists of total number of questions (n) posted by topic (category) during 2004 – 2014 (year) to generate simgle and multiple bar charts and make them interactive.
 
 In this project, I:
-* Create points charts, lines charts, temporal charts, with and without aggregation;
-* Combine figures by overlaying the charts together, and add customized color scales;
-* Add interactions into the charts: add tooltips; create a filter selection so that When users brush through the top chart, the bottom chart adjust its view. 
+* Load the csv file and assign it to the js variable;
+* Peocess the loaded data through grouping and aggregation;
+* Create visualizations with title, scales and axes, and bar charts using d3 functions;
+* Make the chart interactive upon user requests.
 
 What I learned from this homework:
-* Load a .csv file using d3
-* Group data in d3
-* Create scales and axes in D3 
-* Create a simple bar chart in d3
-* Create simple transitions in d3
-* Create small multiple bar chart
+* Load a .csv file using d3;
+* Group and aggregate data in d3;
+* Create scales and axes, bar charts in d3;
+* Create simple transitions in d3;
+* Create small multiple bar charts;
+* Create JOIN, UPDATE, and ENTER sections to make the chart interactive.
 
 My visualization works from this homework:
 #### Lab4 Webpage Screenshot
 ![lab4](lab4.png?raw=true "Lab4 Webpage Screenshot")
 
-# Introduction to the Files
-There are a total of 1 file and 3 folders in the first level of this project. 
-Of those files, "draw.js" inside js folder fis the main file I worked on to do the things mentioned above.
+# Directory Structure
+The lab4-d3 folder contains several files and subfolders:
+* index.html - the HTML contents of the webpage.
+* css/ - a subfolder containing a variety of CSS stylesheets used to style the elements in the webpage.
+* js/draw.js - the JavaScript file you will write JavaScript + D3 code in for your answers in this lab.
+
+Of those files, "draw.js" inside js folder is the main file I worked on to do the things mentioned above.
 The detail about how to view the program will be talked in the *Instructions* section.
 
 # # Dependencies to Setup to View the Webpage
