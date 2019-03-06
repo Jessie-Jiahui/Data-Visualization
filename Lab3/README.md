@@ -15,8 +15,8 @@ What I learned from this homework:
 * Add interactive features, such as tooltip and selection.
 
 My visualization works from this homework:
-#### Lab4 Webpage Screenshot
-![lab4](lab4.png?raw=true "Lab4 Webpage Screenshot")
+#### Lab3 Webpage Screenshot
+![lab3](lab3.png?raw=true "Lab3 Webpage Screenshot")
 
 # Introduction to the Files
 There are a total of 2 files I worked on for this homework. These files are:
