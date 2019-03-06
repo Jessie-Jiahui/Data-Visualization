@@ -4,7 +4,7 @@
 The repository includes a group of homeworks for my SI649: Data-Visualization course this winter semester.
 
 # Repository Strcuture
-## [Lab1-Tableau](lab1)
+## [Lab1-Tableau](https://github.com/Jessie-Jiahui/Data-Visualization/tree/master/Lab1)
 ## Lab2-JaveScript
 ## Lab3-Vega-Lite
 ## Lab4-d3
