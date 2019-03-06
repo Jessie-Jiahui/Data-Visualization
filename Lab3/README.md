@@ -26,7 +26,7 @@ There are a total of 2 files I worked on for this homework. These files are:
 Of those 2 files, `lab3_VegaLite.html` is the main file I worked on to do the things mentioned above. The detail about how to interact with the program will be talked in the *Instructions* section.
 
 # # Dependencies to Setup to View the Webpage
-To be able to view the work from your browser, you will need to set up the server on your computer terminal. Here are the instructions:
+To be able to view the work from youliciar browser, you will need to set up the server on your computer terminal. Here are the instructions:
 
 ### 1) Start a terminal
 If you are on Mac, you can start a terminal. 
@@ -34,7 +34,6 @@ If you are on Windows, start your anaconda prompt.
 
 ### 2) Change to the lab directory
 Move into the directory where you store your lab using the ‘cd’ (change directory) command.
-If I stored my lab files under “C:\licia\si649\18Wlabs\vegalite”, this command will take me to the this directory (Figure 2):
 
 ### 3) Start python server
 If you don’t know your python version, in your prompt/terminal, type:
