@@ -4,6 +4,8 @@
 The repository includes a group of homeworks for my SI649: Data-Visualization course this winter semester.
 
 # Repository Strcuture
+### [Individual-Assignment](https://github.com/Jessie-Jiahui/Data-Visualization/tree/master/Individual%20Assignment%201)
+My task is to design a visualization for a small dataset related to antibiotics, bacteria, and MIC(Minimum Inhibitory Concentration) to effectively communicate something interesting about the data and provide a rigorous rationale for the design choices. 
 ### [Lab1-Tableau](https://github.com/Jessie-Jiahui/Data-Visualization/tree/master/Lab1)
 This homework asked us to use Tableau to generate a series of visualizations for the article “The Dollar-And-Cents Case Against Hollywood’s Exclusion of Women” https://fivethirtyeight.com/features/the-dollar-and-cents-case-against-hollywoods-exclusion-of-women/
 ### [Lab2-JaveScript](https://github.com/Jessie-Jiahui/Data-Visualization/tree/master/Lab2)
