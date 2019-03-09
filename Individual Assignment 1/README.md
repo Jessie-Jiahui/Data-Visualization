@@ -8,7 +8,7 @@ Intro of dataset:
 
 My visualization work:
 #### Final Poster
-![Final Poster](Final Poster.png?raw=true "Final Poster")
+![poster](poster.png?raw=true "Final Poster")
 
 In this project, I:
 * Familiar myself with the dataset background;
