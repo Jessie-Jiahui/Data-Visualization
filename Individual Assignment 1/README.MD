@@ -3,8 +3,12 @@
 # Individual Assignment 1-Tableau Overview
 Our task is to design a visualization for a small data set to effectively communicate something interesting about the data and provide a rigorous rationale for my design choices. We are free to use any graphics or charting tool - including drafting it by hand.
 
-Intro of dataset
+Intro of dataset:
 * After the World War II, antibiotics were considered as "wonder drugs", since they were easy remedy for what had been intractable ailments. To learn which drug worked most effectively for which bacterial infection, performance of the three most popular antibiotics on 16 bacteria were gathered. The values in `a1-burtin-long_grouped.csv` file represent the minimum inhibitory concentration (MIC), a measure of the effectiveness of the antibiotic, which represents the concentration of antibiotic required to prevent growth in vitro. The reaction of the bacteria to Gram staining is described by the covariate “gram staining”. Bacteria that are stained dark blue or violet are Gram-positive. Otherwise, they are Gram-negative.
+
+My visualization work:
+#### Final Poster
+![Final Poster](Final Poster.png?raw=true "Final Poster")
 
 In this project, I:
 * Familiar myself with the dataset background;
