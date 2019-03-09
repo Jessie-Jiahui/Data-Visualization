@@ -1,6 +1,6 @@
 *Jiahui Zhou, University of Michigan, School of Information, UX Design & Research*
 
-# Individual Assignment 1-Tableau Overview
+# Individual Assignment 1 Overview
 Our task is to design a visualization for a small data set to effectively communicate something interesting about the data and provide a rigorous rationale for my design choices. We are free to use any graphics or charting tool - including drafting it by hand.
 
 Intro of dataset:
