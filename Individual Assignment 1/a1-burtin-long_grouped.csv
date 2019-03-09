@@ -1,0 +1,49 @@
+Bacteria ,Antibiotic,MIC,Gram Staining 
+Aerobacter aerogenes,Penicilin,870,negative
+,Streptomycin ,1,negative
+,Neomycin,1.6,negative
+Brucella abortus,Penicilin,1,negative
+,Streptomycin ,2,negative
+,Neomycin,0.02,negative
+Brucella anthracis,Penicilin,0.001,positive
+,Streptomycin ,0.01,positive
+,Neomycin,0.007,positive
+Diplococcus pneumoniae,Penicilin,0.005,positive
+,Streptomycin ,11,positive
+,Neomycin,10,positive
+Escherichia coli,Penicilin,100,negative
+,Streptomycin ,0.4,negative
+,Neomycin,0.1,negative
+Klebsiella pneumoniae,Penicilin,850,negative
+,Streptomycin ,1.2,negative
+,Neomycin,1,negative
+Mycobacterium tuberculosis,Penicilin,800,negative
+,Streptomycin ,5,negative
+,Neomycin,2,negative
+Proteus vulgaris,Penicilin,3,negative
+,Streptomycin ,0.1,negative
+,Neomycin,0.1,negative
+Pseudomonas aeruginosa ,Penicilin,850,negative
+,Streptomycin ,2,negative
+,Neomycin,0.4,negative
+Salmonella (Eberthella) typhosa ,Penicilin,1,negative
+,Streptomycin ,0.4,negative
+,Neomycin,0.008,negative
+Salmonella schottmuelleri ,Penicilin,10,negative
+,Streptomycin ,0.8,negative
+,Neomycin,0.09,negative
+Staphylococcus albus ,Penicilin,0.007,positive
+,Streptomycin ,0.1,positive
+,Neomycin,0.001,positive
+Staphylococcus aureus ,Penicilin,0.03,positive
+,Streptomycin ,0.03,positive
+,Neomycin,0.001,positive
+Streptococcus fecalis ,Penicilin,1,positive
+,Streptomycin ,1,positive
+,Neomycin,0.1,positive
+Streptococcus hemolyticus ,Penicilin,0.001,positive
+,Streptomycin ,14,positive
+,Neomycin,10,positive
+Streptococcus viridans,Penicilin,0.005,positive
+,Streptomycin ,10,positive
+,Neomycin,40,positive
